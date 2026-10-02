@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="pt-32 md:pt-44 lg:pt-52 pb-20 md:pb-28 lg:pb-36 border-b border-[#D9D7D0] overflow-hidden">
       <div className="px-6 md:px-12 lg:px-20">
         <p className="text-sm font-semibold tracking-widest uppercase text-[#6B6B6B] mb-6 md:mb-8">
-          Independent Creative Agency — Est. 2012
+          Independent Creative Agency — Jakarta, Indonesia
         </p>
         
         <h1 className="font-['Schibsted_Grotesk'] font-extrabold tracking-tight leading-[0.95] text-[13vw] md:text-[10vw] lg:text-[8.5vw] xl:text-[7.5vw] whitespace-nowrap -ml-2">
@@ -18,7 +18,7 @@ export default function Hero() {
         
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-8 mt-12 md:mt-16 lg:mt-20">
           <p className="text-lg md:text-xl text-[#6B6B6B] max-w-lg leading-relaxed">
-            Strategy, identity, and digital experiences for companies that refuse to blend in. Based in Copenhagen, working worldwide.
+            Strategy, identity, and digital experiences for companies that refuse to blend in. Based in Jakarta, working across Southeast Asia and beyond.
           </p>
           
           <a 

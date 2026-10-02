@@ -1,14 +1,14 @@
 import React from "react";
 
 const clientNames: string[] = [
-  "VOLVO",
-  "IKEA",
-  "SPOTIFY",
-  "H&M",
-  "ELECTROLUX",
-  "ERICSSON",
-  "SKYPE",
-  "AVANADE"
+  "GOJEK",
+  "TOKOPEDIA",
+  "BANK MANDIRI",
+  "UNILEVER ID",
+  "TELKOMSEL",
+  "GARUDA INDONESIA",
+  "BUKALAPAK",
+  "INDOFOOD"
 ];
 
 export default function Clients() {
@@ -16,7 +16,7 @@ export default function Clients() {
     <section id="clients" className="py-20 md:py-28 lg:py-36 border-b border-[#D9D7D0]">
       <div className="px-6 md:px-12 lg:px-20">
         <h2 className="font-['Schibsted_Grotesk'] font-extrabold text-3xl md:text-4xl lg:text-5xl tracking-tight mb-10 md:mb-14">
-          Trusted by Industry Leaders
+          Trusted by Indonesian Leaders
         </h2>
         
         <div className="grid grid-cols-2 md:grid-cols-4 gap-px bg-[#D9D7D0]">

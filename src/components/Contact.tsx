@@ -25,10 +25,10 @@ export default function Contact() {
         
         <div className="mb-12 md:mb-16 lg:mb-20">
           <a 
-            href="mailto:hello@studionord.com" 
+            href="mailto:hello@studiojkt.com" 
             className="font-['Schibsted_Grotesk'] font-extrabold tracking-tight text-3xl md:text-6xl lg:text-7xl xl:text-8xl break-all hover:text-[#E4002B] transition-colors duration-300"
           >
-            HELLO@STUDIONORD.COM
+            HELLO@STUDIOJKT.COM
           </a>
         </div>
 
@@ -40,11 +40,11 @@ export default function Contact() {
             <div className="space-y-4 text-sm">
               <p className="flex items-center gap-3">
                 <span className="font-semibold uppercase tracking-widest text-[#6B6B6B]">Studio:</span>
-                Vesterbrogade 42, 1620 Copenhagen
+                Jl. Senopati No. 42, Kebayoran Baru, Jakarta Selatan 12190
               </p>
               <p className="flex items-center gap-3">
                 <span className="font-semibold uppercase tracking-widest text-[#6B6B6B]">Phone:</span>
-                +45 12 34 56 78
+                +62 21 1234 5678
               </p>
             </div>
           </div>

@@ -7,7 +7,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#F7F6F2] border-b border-[#D9D7D0]">
       <div className="flex items-center justify-between px-6 md:px-12 lg:px-20 h-16 md:h-20">
         <a href="#" className="font-['Schibsted_Grotesk'] font-extrabold text-xl md:text-2xl tracking-tight">
-          STUDIO<span className="text-[#E4002B]">/</span>NORD
+          STUDIO<span className="text-[#E4002B]">/</span>JKT
         </a>
         
         <nav className="hidden md:flex items-center gap-8 text-sm font-medium">

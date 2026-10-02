@@ -11,28 +11,28 @@ interface Project {
 const projects: Project[] = [
   {
     id: "01",
-    title: "Nordic Elements",
+    title: "Kopi Kultur",
     category: "Brand Identity",
     year: "2024",
     image: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1200&h=800&fit=crop"
   },
   {
     id: "02",
-    title: "Mono Architecture",
+    title: "Nusantara Airlines",
     category: "Digital Experience",
     year: "2024",
     image: "https://images.unsplash.com/photo-1486718448742-163732cd1544?w=1200&h=800&fit=crop"
   },
   {
     id: "03",
-    title: "Raw Beauty Co.",
+    title: "Batik Modern",
     category: "Packaging & Print",
     year: "2023",
     image: "https://images.unsplash.com/photo-1547887538-e3a2f32cb1cc?w=1200&h=800&fit=crop"
   },
   {
     id: "04",
-    title: "Kinetik Fitness",
+    title: "Taman Safari Digital",
     category: "Campaign & Motion",
     year: "2023",
     image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&h=800&fit=crop"
