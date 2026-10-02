@@ -1,14 +1,14 @@
 import React from "react";
 
 const clientNames: string[] = [
-  "GOJEK",
-  "TOKOPEDIA",
-  "BANK MANDIRI",
-  "UNILEVER ID",
-  "TELKOMSEL",
-  "GARUDA INDONESIA",
-  "BUKALAPAK",
-  "INDOFOOD"
+  "HALO FINANSIAL",
+  "JALUR DATA",
+  "KOPI NUSANTARA",
+  "PESONA RAYA",
+  "MEDIA SINAR",
+  "LOGISTIK NUSA",
+  "CERITA KITA",
+  "SUMBER PANGAN"
 ];
 
 export default function Clients() {
